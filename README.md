@@ -3,7 +3,7 @@
 
 A little background for this personal project.
 
-![](./screenshots/Home.png)
+<img src="./screenshots/Home.png" style="width:300px;"/>
 
 - Smooth Love Potion or SLP is one of the currencies of the NFT game Axie Infinity.
 - A scholarship system is widely used in this game 
@@ -11,7 +11,7 @@ A little background for this personal project.
 - And scholars will be hired to play the teams in exchange for a percentage of the SLP earnings of the team
 - In game SLP earnings are harvested every 15 days and the scholar's share is sent to their Ronnin wallet
 
-![](./screenshots/Wallet.png)
+<img src="./screenshots/Wallet.png" style="width:300px;"/>
 
 ### This app uses:
 - axios to request coin data from [CoinGecko API](https://www.coingecko.com/en/api/documentation) every minute
